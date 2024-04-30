@@ -2,5 +2,5 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   0   | PO1         | Vector Class Program   |
-|   1   | PO2         | Using JSON and GETCH   |
+|  P01  |     https://github.com/Benito-Calderon/3013-Algorithms/edit/main/Assignments%20/P01/README.MD  | Vector Class Program   |
+|   P02   | https://github.com/Benito-Calderon/3013-Algorithms/edit/main/Assignments%20/P02/README.MD        | Using JSON and GETCH   |
